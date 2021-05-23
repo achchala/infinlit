@@ -1,14 +1,13 @@
 /* styling */
 
 body {
-  padding: 40px;
   background: #DOD9B3;
-  background-color: #9C9F84;
+  background-color: #B3C4A7;
   font-family: Verdana;
   text-align: center;
 }
 
-p{
+h1{
   color: white;
   font-weight: bolder;
 }
